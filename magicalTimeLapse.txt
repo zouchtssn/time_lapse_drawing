@@ -277,3 +277,4 @@ excellent
 rule
 to
 live
+each
