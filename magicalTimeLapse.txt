@@ -307,3 +307,4 @@ a
 vigor
 and
 a
+keenness
