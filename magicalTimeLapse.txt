@@ -477,3 +477,4 @@ in
 an
 endless
 vista
+All
