@@ -603,3 +603,4 @@ would
 be
 an
 excellent
+rule
