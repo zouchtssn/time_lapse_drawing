@@ -375,3 +375,4 @@ last
 minute
 by
 some
+stroke
