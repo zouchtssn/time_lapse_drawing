@@ -487,3 +487,4 @@ stories
 in
 which
 the
+hero
