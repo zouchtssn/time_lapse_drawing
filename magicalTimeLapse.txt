@@ -304,3 +304,4 @@ with
 a
 gentleness
 a
+vigor
