@@ -708,3 +708,4 @@ stroke
 of
 fortune
 but
+almost
