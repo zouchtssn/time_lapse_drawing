@@ -525,3 +525,4 @@ doomed
 man
 chose
 to
+spend
