@@ -707,3 +707,4 @@ some
 stroke
 of
 fortune
+but
